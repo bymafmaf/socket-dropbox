@@ -1,0 +1,11 @@
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Debug\CS408 - Project - Server.exe.config
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Debug\CS408 - Project - Server.exe
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Debug\CS408 - Project - Server.pdb
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Debug\CS408 - Project - Server.csprojResolveAssemblyReference.cache
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Debug\CS408___Project___Server.Form1.resources
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Debug\CS408___Project___Server.Properties.Resources.resources
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Debug\CS408 - Project - Server.csproj.GenerateResource.Cache
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Debug\CS408 - Project - Server.exe
+c:\users\monus\documents\visual studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Debug\CS408 - Project - Server.pdb
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Debug\Newtonsoft.Json.xml

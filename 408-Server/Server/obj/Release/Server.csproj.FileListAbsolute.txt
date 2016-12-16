@@ -1,0 +1,10 @@
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Release\CS408 - Project - Server.exe.config
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Release\CS408 - Project - Server.exe
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Release\CS408 - Project - Server.pdb
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Release\Server.ServerMainWindow.resources
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Release\CS408___Project___Server.Properties.Resources.resources
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Release\CS408 - Project - Server.exe
+C:\Users\monus\Documents\Visual Studio 2015\Projects\CS408 - Project - Server\CS408 - Project - Server\obj\Release\CS408 - Project - Server.pdb
